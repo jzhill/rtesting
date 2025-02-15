@@ -2,6 +2,7 @@
 title: "Example RMD document"
 author: "jh"
 date: "2023-05-10"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
